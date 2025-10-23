@@ -1,0 +1,30 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Datasets
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.rar
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
